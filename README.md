@@ -1,4 +1,5 @@
-##  Sebastian K R
+##  Sebastian K R                                      
+[<img src='https://img.icons8.com/?size=100&id=13930&format=png&color=000000' alt='linkedin' height='40'>](https://www.linkedin.com/in/sebastian-k-r-b289527a/)  
 ### Certified ethical hacker (CEHv12)
 ![](https://github.com/SebastianRaphael/SebastianRaphael/blob/main/EC-Council-CEH-v12-Download.jpg)
 
@@ -14,5 +15,5 @@ I am a ethical hacker certified by EC-council looking for opportunities in the c
 - 📫 How to reach me:  sebin.raphaelwork1@gmail.com 
 
 
-[<img src='https://img.icons8.com/?size=100&id=13930&format=png&color=000000' alt='linkedin' height='40'>](https://www.linkedin.com/in/sebastian-k-r-b289527a/)  
+
 
