@@ -1,15 +1,16 @@
-### Hi there 👋, my name is Sebastian
-#### I am a aspiring ethical hacker
-![I am a aspiring ethical hacker](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### Hi there 👋, I am Sebastian K R
+#### Certified ethical hacker (CEHv12)
+I am a ethical hacker certified by EC-council looking for opportunities in the cybersecurity field ,Also eagerly ready to learn as much as I can  to increase my knowledge base about the different methodologies and tools employed in the cyber security field. 
 
-Sebastian K.R. | Ethical Hacker in Training | Cybersecurity Enthusiast
+Skills: Python / HTML / CSS /  Linux 
 
-🔐 Aspiring ethical hacker currently in training, eagerly awaiting certification exam completion. Passionate about securing digital landscapes and championing ethical practices.
- 
+- 🌱 I’m currently learning bug-bounty hunting to gain more practical knowledge 
+- 📫 How to reach me: sebin.raphaelwork1@gmail.com 
 
-Skills:  python / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SebastianRaphael)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sebastian-k-r-b289527a//)  
+
+
 
 
 
