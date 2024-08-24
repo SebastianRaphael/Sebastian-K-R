@@ -9,10 +9,15 @@ I am a ethical hacker certified by EC-council looking for opportunities in the c
 #### Skills: 
  💻Linux / HTML / CSS / Embedded C
  
- 🐍Python 
+ 🐍Python  
 
-- 🌱 I’m currently learning bug-bounty hunting to gain more practical knowledge 
-- 📫 How to reach me:  sebin.raphaelwork1@gmail.com 
+#### Experience
+
+ 🌱 I’m currently learning bug-bounty hunting to gain more practical knowledge 
+ 
+#### Contact info
+ 
+ 📫 How to reach me:  sebin.raphaelwork1@gmail.com 
 
 
 
