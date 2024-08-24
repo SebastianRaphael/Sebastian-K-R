@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Sebastian K R
+### Hi there 👋, I am Sebastian K R
 #### Certified ethical hacker (CEHv12)
 I am a ethical hacker certified by EC-council looking for opportunities in the cybersecurity field ,Also eagerly ready to learn as much as I can to increase my knowledge base about the different methodologies and tools employed in the cyber security field.
 
