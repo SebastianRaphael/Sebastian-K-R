@@ -8,5 +8,5 @@ Skills: Linux / Python / HTML / CSS
 - 📫 How to reach me:  sebin.raphaelwork1@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sebastian-k-r-b289527a/)  
+[<img src='https://img.icons8.com/?size=100&id=13930&format=png&color=000000' alt='linkedin' height='40'>](https://www.linkedin.com/in/sebastian-k-r-b289527a/)  
 
