@@ -7,7 +7,7 @@
 I am a ethical hacker certified by EC-council looking for opportunities in the cybersecurity field ,Also eagerly ready to learn as much as I can to increase my knowledge base about the different methodologies and tools employed in the cyber security field.
 
 #### Skills: 
- 💻Linux / HTML / CSS
+ 💻Linux / HTML / CSS / Embedded C
  
  🐍Python 
 
